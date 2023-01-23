@@ -1,2 +1,2 @@
 resources:
-- daemonset-preloaded.yaml
+- daemonset-preloaded-latest.yaml
